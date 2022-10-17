@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Expenses</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="control_expenses">Учет расходов</string>
+    <string name="expense_name">Название расхода</string>
+    <string name="cost">Цена</string>
+    <string name="add">Добавить</string>
+    <string name="showInfo">Показать информацию</string>
+    <string name="expenses_book">Учет расходов</string>
+    <string name="cont">Продолжить</string>
+    <string name="description">Описание</string>
+    <string name="delete">Удалить</string>
+    <string name="back">Назад</string>
+    <string name="Hello">Добро пожаловать</string>
+    <string name="button1">Список контактов</string>
+    <string name="button2">Добавить контакт</string>
+    <string name="Name">Введите имя и фамилию</string>
+    <string name="Number">Введите номер телефона</string>
+    <string name="Job">Введите место работы</string>
+    <string name="add2">Добавить контакт</string>
+    <string name="con">Контакт</string>
+    <string name="name">Имя</string>
+    <string name="surname2">Фамилия</string>
+    <string name="telefon">Номер телефона</string>
+    <string name="job">Место работы</string>
+    <string name="Chahge">Изменить</string>
+</resources>
